@@ -1,0 +1,17 @@
+"Updater"
+{
+    "Information"
+    {
+        "Version"
+        {
+            "Latest"    "0.5.9"
+        }
+        "Notes"         "TFCLUpdater 0.5.9 - Updated welcome chat messages (POV demo reminder + !extend hint)."
+        "Notes"         "Check the TFCL GitHub for the latest patch notes!"
+        "Notes"         "https://github.com/Sidular/TFCL-Server-Config"
+    }
+    "Files"
+    {
+        "Plugin"        "Path_SM/plugins/tfclupdater.smx"
+    }
+}
