@@ -4,9 +4,9 @@
     {
         "Version"
         {
-            "Latest"    "0.5.9"
+            "Latest"    "0.5.10"
         }
-        "Notes"         "TFCLUpdater 0.5.9 - Updated welcome chat messages (POV demo reminder + !extend hint)."
+        "Notes"         "TFCLUpdater 0.5.10 - Added cfg file auto-sync (no snapshot rebake needed for cfg changes) + fixed cfg destination path."
         "Notes"         "Check the TFCL GitHub for the latest patch notes!"
         "Notes"         "https://github.com/Sidular/TFCL-Server-Config"
     }
